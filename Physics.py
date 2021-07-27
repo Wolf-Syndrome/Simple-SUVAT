@@ -1,4 +1,5 @@
 import math
+import requests
 
 def ask_variables():
     global angle, mass, distance, time, acceleration, force
